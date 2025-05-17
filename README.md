@@ -17,5 +17,5 @@ A classe `EmpréstimoDAO` estende a classe `DAO`, especializando as operações 
 A classe `AtivDAO` foi designada como a classe principal do projeto, com o objetivo de executar os testes da classe `EmpréstimoDAO`. No entanto, um erro crítico impede a execução desses testes: o compilador não está conseguindo localizar o método `main` dentro da classe `AtivDAO`. A ausência desse método essencial impede que a aplicação seja iniciada e, consequentemente, que os testes sejam realizados.
 
 ## Discentes:
-Elton Carlos Viana Pantoja
+Elton Carlos Viana Pantoja, 
 Denis de Castro Silva
