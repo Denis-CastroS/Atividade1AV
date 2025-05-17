@@ -18,3 +18,4 @@ A classe `AtivDAO` foi designada como a classe principal do projeto, com o objet
 
 ## Discentes:
 Elton Carlos Viana Pantoja
+Denis de Castro Silva
